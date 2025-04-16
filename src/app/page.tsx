@@ -9,7 +9,7 @@ export default function Home() {
       fontFamily: 'sans-serif',
     }}>
       <h1 style={{ fontSize: '2.5rem', marginBottom: '20px' }}>Evrika Smart</h1>
-      <a  href="/evrika_smaert.apk" download>
+      <a href="https://clientauth.evrika.com/storage/evrika_smart.apk" target="_blank" rel="noopener noreferrer">
         <button style={{
           padding: '12px 24px',
           fontSize: '1rem',
