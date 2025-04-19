@@ -9,7 +9,7 @@ export default function Sales() {
         fontFamily: 'sans-serif',
       }}>
           <img src="/sales.svg" alt="Logo" className="w-30 h-30" />
-        <h1 style={{ fontSize: '2.5rem', marginBottom: '18px' }}>Evrika Sales</h1>
+        <h1 style={{ fontSize: '2.5rem', marginBottom: '18px' }}>EG Sales</h1>
         <a href="http://oms.evrika.services/storage/eg_sales_v1.1.13.apk" target="_blank" rel="noopener noreferrer">
           <button style={{
             padding: '12px 24px',
