@@ -20,7 +20,7 @@ export default function Sales() {
             borderRadius: '8px',
             cursor: 'pointer'
           }}>
-           Скачать Evrika Sales v.1.1.3
+           Скачать Evrika Sales v.1.1.13
           </button>
         </a>
       </main>
